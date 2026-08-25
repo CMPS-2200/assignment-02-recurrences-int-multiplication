@@ -10,4 +10,4 @@ def test_quadratic_multiply():
 
 # 5 pts
 def test_subquadratic_multiply():
-    assert quadratic_multiply(BinaryNumber(2), BinaryNumber(2)) == 2*2
+    assert subquadratic_multiply(BinaryNumber(2), BinaryNumber(2)) == 2*2
